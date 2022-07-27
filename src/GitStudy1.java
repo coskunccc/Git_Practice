@@ -9,6 +9,6 @@ public class GitStudy1 extends GitStudy{
 
     public static void main(String[] args) {
         GitStudy obj=new GitStudy1();
-       
+
     }
 }
